@@ -8,8 +8,8 @@
 - Optifine grass (all types)
 - compatible with optifine <br>
 
-## CHANGELOG 26.9. version 1.1
-- added Better grass optifine default look <br>
+## CHANGELOG 5.10. version 1.2
+- added Better Ores look <br>
 - new Inventory and Hud textures <br>
 - and more fixes...<br> 
 
