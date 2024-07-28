@@ -1,4 +1,4 @@
-# Vava Survival Pack
+# Better Survival Pack
 
 ## 1.19.x - 1.19.4 recommended
 - Dark mode Inventory <br>
@@ -6,7 +6,12 @@
   - how to set skin on totem file is in ZIP file <br>
   - default is vava skin on totem but you can change <br>
 - Optifine grass (all types)
+- Better Ores
 - compatible with optifine <br>
+
+## CHANGELOG 28/7/2024
+- renamed from Vava Survival pack to Better-Survival Pack
+- again started development of resourcepack
 
 ## CHANGELOG 5.10. version 1.2
 - added Better Ores look <br>
